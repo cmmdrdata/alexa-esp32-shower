@@ -21,3 +21,4 @@ DC 5V-36V 15A(Max 30A) 400W Dual High-Power MOS Transistor Driving Controller Mo
 
 This code includes a webserver which you can use to <ul><li>enable or disble the touch sensor (in case of false triggers) <li> query for usage stats <li> clear usage statistics.  </ul>
 
+Installing the pipes I used sharkbite knock-off brand fittings so there was no soldering involved - mainly just pipe cutting.  I added a bypass valve so that if the circuit fails I could still use the shower. 
