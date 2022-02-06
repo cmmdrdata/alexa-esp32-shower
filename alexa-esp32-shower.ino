@@ -138,7 +138,7 @@ void firstLightChanged(uint8_t brightness)
       // rotate the buffer if needed 
       showTimePtr = (showTimePtr+1) % maxShowTime;
 
-      postResult();
+      //postResult();
       
 
   }
