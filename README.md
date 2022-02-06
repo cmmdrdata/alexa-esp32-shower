@@ -2,7 +2,7 @@
 
 This project uses the espressif exp32 with capacitive touch sensor to control a solenoid valve connected between the mixer valve and the shower head.  
 
-It can be controlled through alexa which allows you to set it up on schedule and start the shower on weekdays a few minutes before you get in to have the temperature just right before you get in.  
+It can be controlled through alexa which allows you to set it up on schedule and start the shower on weekdays a few minutes before you get in to have the temperature just right.  
 
 The touch sensor is connected to the copper shower pipe leading to the shower head and allows the user to turn-off the shower by touching the pipe or possibly the shower head if there is a conductive connection between the two.   Otherwise you can use the alternative light switch control installed outside the shower so that it can be turned off without touching normal shower controls (mixer valve) so that the temp is always set to your preference.
 <p>
